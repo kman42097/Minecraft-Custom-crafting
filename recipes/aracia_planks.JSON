@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+        "item": "minecraft:aracia_log"
+        }
+    ],
+    "result": {
+        "item": "minecraft:aracia_planks",
+        "count": 16
+}
+}
